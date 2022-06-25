@@ -11,7 +11,7 @@
   
   body {
     font-family: 'Space Mono', monospace;
-    background-image: linear-gradient( to bottom right, #7c8c54, #575b44 ) ;
+    background-color: #7c8c54;
     height: 100%;
   }
   
@@ -167,7 +167,7 @@
   }
   
   .card .input .btn-wrapper .btn:hover {
-    background-color: #9fe8df;
+    background-color: #7c8c54;
   }
   
   .card .input .btn-wrapper .btn-active {
