@@ -167,12 +167,12 @@
   }
   
   .card .input .btn-wrapper .btn:hover {
-    background-color: #7c8c54;
+    background-color: #d6dbdb;
   }
   
   .card .input .btn-wrapper .btn-active {
-    background-color: #959058;
-    color: #efd751;
+    background-color: #f4fafa;
+    color: #00494d;
   }
   
   .card .input .btn-wrapper .inp-text {
