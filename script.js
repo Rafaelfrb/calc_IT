@@ -26,9 +26,11 @@ let TMB = {
 
 
 function calcular() {
+    resultado_individual.innerHTML = 0;
     if (instrucao == 'TMB' && instrucao_info == 'TMB-PST') {
         resultado_individual.innerHTML = TMB.pistola;
-    } else if (instrucao == 'TMB' && instrucao_info === 'TMB-FZL') {
+    } 
+     if (instrucao == 'TMB' && instrucao_info == 'TMB-FZL') {
         resultado_individual.innerHTML = TMB.fuzil;
         console.log(resultado_individual.innerHTML)
     }
