@@ -13,11 +13,14 @@
 //TMB Fuzil : 40 disparos avaliados e mais 10 não avaliados
 
 var instrucao =  document.getElementById('instrucao').value;
+console.log(instrucao)
 
 var instrucao_info = document.getElementById('instrucao_info').value;
+console.log(instrucao_info)
 
-var resultado_individual = document.getElementById('resultind');
-//console.log(resultado_individual)
+var resultado_individual = document.getElementById('resultind').value;
+resultado_individual = 0;
+console.log(resultado_individual)
 
 let TMB = {
     pistola: 44,
@@ -26,9 +29,8 @@ let TMB = {
 
 
 function calcular() {
-    resultado_individual.innerHTML = 0;
     if (instrucao == 'TMB' && instrucao_info == 'TMB-PST') {
-        resultado_individual.innerHTML = TMB.pistola;
+        resultado_individual = TMB.pistola;
     } 
      if (instrucao == 'TMB' && instrucao_info == 'TMB-FZL') {
         resultado_individual.innerHTML = TMB.fuzil;
