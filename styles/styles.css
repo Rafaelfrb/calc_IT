@@ -172,10 +172,10 @@
     text-transform: uppercase;
     text-align: center;
     color: #efd751;
-    font-size: 2rem;
+    font-size: 1.8rem;
     font-weight: 700;
     border-radius: 0.5rem;
-    padding: 1rem 0;
+    padding: 1rem;
     margin-top: 3.4rem;
     -webkit-transition: all 0.5s ease;
     transition: all 0.5s ease;
@@ -245,10 +245,6 @@
     margin-top: 3.4rem;
     -webkit-transition: all 0.5s ease;
     transition: all 0.5s ease;
-  }
-  
-  .card .output .btn:hover {
-    background-color: #7c8c54;
   }
   
   @-webkit-keyframes show-err {
