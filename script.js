@@ -27,6 +27,15 @@ let TMB = {
     fuzil: 50
 }
 
+let TMI = {
+    pistola: ,
+    fuzil: ,
+    espingarda: ,
+    sub_metralhadora: ,
+    mtr_lv: ,
+    mtr_p:
+}
+
 
 function calcular() {
     if (instrucao == 'TMB' && instrucao_info == 'TMB-PST') {
