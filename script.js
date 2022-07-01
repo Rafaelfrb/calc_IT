@@ -27,6 +27,10 @@ let TMB = {
     fuzil: 50
 }
 
+let TME_TST = {
+    pistola:  ,
+}
+
 let TMI = {
     pistola: ,
     fuzil: ,
