@@ -9,8 +9,6 @@
 //TME - Tiro de Combate de Operações Especiais - TOE: Pistola, fuzil e metralhadora
 //TME - Tiro de Intervenção Tática - TIT: Fuzil, Sub-metralhadora e pistola
 
-//TMB Pistola : 44 disparos
-//TMB Fuzil : 40 disparos avaliados e mais 10 não avaliados
 
 var instrucao =  document.getElementById('instrucao').value;
 console.log(instrucao)
