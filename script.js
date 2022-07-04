@@ -26,7 +26,7 @@ let TMB = {
 }
 
 let TME_TST = {
-    pistola:  ,
+    pistola:  24
 }
 
 let TMI = {
