@@ -30,11 +30,11 @@ let TME_TST = {
 }
 
 let TMI = {
-    pistola: ,
-    fuzil: ,
-    espingarda: ,
-    sub_metralhadora: ,
-    mtr_lv: ,
+    pistola: '',
+    fuzil: '',
+    espingarda: '',
+    sub_metralhadora: '',
+    mtr_lv: '',
     mtr_p:
 }
 
