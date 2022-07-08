@@ -35,7 +35,7 @@ let TMI = {
     espingarda: '',
     sub_metralhadora: '',
     mtr_lv: '',
-    mtr_p:
+    mtr_p: ''
 }
 
 
